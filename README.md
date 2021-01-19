@@ -3,7 +3,7 @@
 # Feather-HTN :sun_with_face: :dove: :milky_way:
 Our 2020-2021 Hack The North Project that uses REST, Django, and Sentiment Analysis to democratize mental health support while making it accessible through social avenues. Our goal was to rethink the way we approach mental health because the truth is each and every person suffers with some sort of struggle. We believe in connecting individuals anonymously while using advanced sentiment analysis to detect mental health extremes while offering support through the community on the platform. 
 
-## The pillars
+## The Pillars
 Primarily, the goal is to use this app to track your thoughts with it prompting you and asking follow up questions to gain more information on your day. All of this data is kept encrypted on an azure datastore. You sign up anonymously while listing your interests to join circles with others who are anonymous. If the SA algorithm were to detect that your journal entries are depressive or indicate any presence of mental helath issues, you will automatically be redirected at random in a call with someone who is facing a similar issue or may have aligning interests. 
 
 Following this, sentiment analysis would run on the discussion in live-time and provides questions to keep the conversation engaging and theraputic. If there are any extreme mental health issues being displayed, the algorithm will automatically notify a health-care professional to join the call. 
