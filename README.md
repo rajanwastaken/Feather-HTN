@@ -27,6 +27,5 @@ Sometimes, all you need is for someone to be there for you, yet in a world where
 [Mike Romashov](https://github.com/MikeRomaa): Django, REST, Backend, Deployment, APIs <br>
 [Rajan Agarwal](https://github.com/rajanagarwal1): Video and Media, Partial Frontend, PM <br>
 
-
-## License
-MIT © [DevPatel.io]
+## Check it out
+https://www.devpost.com/software/feather
